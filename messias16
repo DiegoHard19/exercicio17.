@@ -1,0 +1,6 @@
+# Armazenando os nomes dos amigos na lista
+amigos = ["gabi", "ilidio", "arthur", "miguel", "jota"]
+
+# Exibindo o nome de cada pessoa um de cada vez
+for amigo in amigos:
+    print(amigo)
