@@ -1,0 +1,6 @@
+# Armazenando os nomes dos amigos na lista
+amigos = ["gabi", "ilidio", "arthur", "miguel", "jota"]
+
+# Exibindo a saudação personalizada para cada amigo
+for amigo in amigos:
+    print(f"Olá, {amigo}, como vai você?")
