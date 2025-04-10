@@ -16,3 +16,6 @@ def calcular_tabuada(numero):
 
 # Recebendo o número do usuário
 numero = int(input("Digite um número para calcular a tabuada: "))
+
+# Chamando a função para calcular e salvar a tabuada
+calcular_tabuada(numero)
